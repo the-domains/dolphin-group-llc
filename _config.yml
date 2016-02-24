@@ -1,0 +1,28 @@
+name: 'Dolphin Group, LLC'
+favicon: null
+layout_spectrum: 0.11490835691802204
+typography_spectrum: 0.7884732398670167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6969708437100053
+  lightness: 0.7781371006276459
+  saturation: 0.8166899043135345
+  rhythmicContrast: 0.4271902453619987
+purpose: []
